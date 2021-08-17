@@ -1,1 +1,1 @@
-[Sushanth GitHub] (https://github.com/Sushanthp18)
+[Sushanth GitHub](https://github.com/Sushanthp18)
