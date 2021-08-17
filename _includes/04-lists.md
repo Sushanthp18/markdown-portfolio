@@ -1,3 +1,3 @@
-# McDonalds
-# Burger King
-# Mission Taco Joint
+- McDonalds
+- Burger King
+- Mission Taco Joint
